@@ -1,0 +1,11 @@
+b RSHIFT 1 -> v
+c LSHIFT 1 -> t
+NOT h -> n
+19138 -> b
+b RSHIFT 3 -> e
+b RSHIFT 5 -> f
+0 -> c
+v OR w -> o
+s LSHIFT 15 -> w
+NOT h -> s
+5 -> h
